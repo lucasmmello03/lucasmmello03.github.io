@@ -38,7 +38,7 @@ Confira como está o visual do portfólio:
 ## 🌐 Acesse o Site
 
 O site está no ar e pode ser acessado pelo seguinte link:
-[Lucas Melo de Mello | Desenvolvedor Android](https://seu-usuario.github.io/nome-do-repositorio) <!-- Substitua pelo link correto do GitHub Pages -->
+[Lucas Melo de Mello | Desenvolvedor Android](https://lucasmmello03.github.io/) <!-- Substitua pelo link correto do GitHub Pages -->
 
 ## 🛠️ Como Executar Localmente
 
