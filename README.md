@@ -52,6 +52,19 @@ Se quiser rodar o projeto em sua máquina local:
    ```
 3. Abra o arquivo `index.html` em seu navegador.
 
+# TODO: Melhorias para o Portfólio
+
+- [ ] **Responsividade**: Ajustar layout para dispositivos móveis e navegadores variados.
+- [ ] **Interatividade**: Adicionar animações, efeitos de hover e uma seção de comentários.
+- [ ] **Design**: Implementar tema claro/escuro, melhorar tipografia e criar um favicon.
+- [ ] **SEO e Performance**: Melhorar meta tags, otimizar imagens e minificar arquivos.
+- [ ] **Acessibilidade**: Garantir contraste adequado, textos alternativos e suporte a leitores de tela.
+- [ ] **Funcionalidades Extras**: Formulário de contato, blog técnico e linha do tempo interativa.
+- [ ] **Integrações**: Conectar com APIs, redes sociais e Google Analytics.
+- [ ] **Documentação**: Atualizar README e adicionar guia de contribuição.
+- [ ] **Testes**: Verificar compatibilidade, erros e desempenho do site.
+- [ ] **Hospedagem**: Configurar HTTPS e monitorar estabilidade.
+
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e adaptá-lo conforme necessário.
