@@ -1,6 +1,6 @@
 # Portfólio de Lucas Melo de Mello
 
-![Preview do Site](https://via.placeholder.com/800x400.png?text=Imagem+do+Portf%C3%B3lio) <!-- Substitua pelo link de uma imagem real se possível -->
+![Preview do Site](assets/portfolio.png) <!-- Substitua pelo link de uma imagem real se possível -->
 
 Bem-vindo ao repositório do meu site de portfólio! Este projeto foi criado para apresentar minhas habilidades, projetos e formas de contato de forma profissional e moderna.
 
@@ -33,7 +33,7 @@ Abaixo está a organização dos arquivos e pastas:
 
 Confira como está o visual do portfólio:
 
-![Screenshot](https://drive.google.com/file/d/1un4md-PSt1W9WuURHK4koVwzvdHv8O0B/view?usp=drive_link) <!-- Substitua pelo link de uma imagem real se possível -->
+![Screenshot](assets/portfolio.png) <!-- Substitua pelo link de uma imagem real se possível -->
 
 ## 🌐 Acesse o Site
 
