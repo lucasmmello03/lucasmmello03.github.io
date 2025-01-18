@@ -4,33 +4,62 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lucas Melo de Mello | Desenvolvedor Android</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css"> <!-- Link para o arquivo CSS -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+  <script defer src="js/script.js"></script>
 </head>
 <body>
-  <header class="fade-in">
-    <img src="assets/perfil.jpg" alt="Foto de Lucas Melo de Mello">
-    <h1>Lucas Melo de Mello</h1>
-    <p>Desenvolvedor Android | Kotlin | Soluções Modernas</p>
+  <header>
+    <div class="container">
+      <img src="assets/perfil.jpg" alt="Foto de Lucas Melo de Mello" class="perfil-img">
+      <h1>Lucas Melo de Mello</h1>
+      <p>Desenvolvedor Android | Kotlin | Soluções Modernas</p>
+      <a href="assets/Currículo Atualizado.pdf" download="Lucas_Melo_CV" class="btn-download">Baixar CV</a>
+    </div>
   </header>
 
   <main>
-    <section id="sobre" class="fade-in">
+    <section id="sobre" data-aos="fade-up">
       <h2>Sobre Mim</h2>
       <p>Sou um desenvolvedor Android apaixonado por tecnologia e inovação. Com experiência na criação de aplicativos funcionais e modernos, busco transformar ideias em soluções que impactem positivamente o dia a dia das pessoas.</p>
     </section>
 
-    <section id="projetos" class="fade-in">
-      <h2>Projetos</h2>
-      <ul>
-        <li><strong>TaskBeats App: </strong> Gerenciador de tarefas com integração a APIs e design responsivo.</li>
-        <li><strong>App Álcool ou Gasolina: </strong> Aplicativo para cálculo de autonomia e custo benefício na escolha do combustível.</li>
-        <li><strong>Tips Calculator App: </strong> Aplicativo para cálculo de gorjeta e custo por pessoa.</li>
+    <section id="habilidades" data-aos="fade-up">
+      <h2>Habilidades</h2>
+      <ul class="skills">
+        <li><strong>Android Studio:</strong> Ferramenta principal</li>
+        <li><strong>Kotlin:</strong> Principal tecnologia</li>
+        <li><strong>MVVM:</strong> Padrão de arquitetura</li>
+        <li><strong>RoomDataBase:</strong> Base de dados local</li>
+        <li><strong>MySQL:</strong> Banco de dados</li>
+        <li><strong>APIs REST:</strong> Integração eficiente</li>
       </ul>
-      <p>Confira mais no meu GitHub: <a href="https://github.com/lucasmmello03" target="_blank">github.com/lucasmmello03</a></p>
     </section>
 
-    <section id="contato" class="fade-in">
+    <section id="projetos" data-aos="fade-up">
+      <h2>Projetos</h2>
+      <div class="projetos-grid">
+        <div class="projeto-card">
+          <h3>TaskBeats</h3>
+          <p>Gerenciador de tarefas com integração a APIs e design responsivo.</p>
+          <a href="https://github.com/lucasmmello03/taskbeats" target="_blank">Ver no GitHub</a>
+        </div>
+        <div class="projeto-card">
+          <h3>App Álcool ou Gasolina</h3>
+          <p>Aplicativo para cálculo de autonomia e custo-benefício.</p>
+          <a href="https://github.com/lucasmmello03/alcool-gasolina" target="_blank">Ver no GitHub</a>
+        </div>
+        <div class="projeto-card">
+          <h3>Tips Calculator</h3>
+          <p>Aplicativo para cálculo de gorjeta e custo por pessoa.</p>
+          <a href="https://github.com/lucasmmello03/tips-calculator" target="_blank">Ver no GitHub</a>
+        </div>
+      </div>
+    </section>
+
+    <section id="contato" data-aos="fade-up">
       <h2>Contato</h2>
       <p>Interessado em trabalhar comigo? Entre em contato pelo e-mail: <a href="mailto:lucasmmello03@gmail.com">lucasmmello03@gmail.com</a></p>
       <p>Ou conecte-se comigo no LinkedIn: <a href="https://www.linkedin.com/in/mellolucas03/" target="_blank">linkedin.com/in/mellolucas03</a></p>
@@ -42,6 +71,8 @@
     <p><a href="https://github.com/lucasmmello03" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/mellolucas03/" target="_blank">LinkedIn</a></p>
   </footer>
 
-  <script src="js/script.js"></script> <!-- Link para o arquivo JavaScript -->
+  <script>
+    AOS.init(); // Inicializa as animações de rolagem
+  </script>
 </body>
 </html>
