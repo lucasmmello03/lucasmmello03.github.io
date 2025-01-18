@@ -1,7 +1,5 @@
 # Portfólio de Lucas Melo de Mello
 
-![Preview do Site](https://via.placeholder.com/800x400.png?text=Imagem+do+Portf%C3%B3lio) <!-- Substitua pelo link de uma imagem real se possível -->
-
 Bem-vindo ao repositório do meu site de portfólio! Este projeto foi criado para apresentar minhas habilidades, projetos e formas de contato de forma profissional e moderna.
 
 ## 🚀 Tecnologias Utilizadas
@@ -33,7 +31,7 @@ Abaixo está a organização dos arquivos e pastas:
 
 Confira como está o visual do portfólio:
 
-![Screenshot](https://drive.google.com/file/d/1un4md-PSt1W9WuURHK4koVwzvdHv8O0B/view?usp=drive_link) <!-- Substitua pelo link de uma imagem real se possível -->
+![Screenshot](assets/portfolio.png) <!-- Substitua pelo link de uma imagem real se possível -->
 
 ## 🌐 Acesse o Site
 
@@ -53,6 +51,19 @@ Se quiser rodar o projeto em sua máquina local:
    cd nome-do-repositorio
    ```
 3. Abra o arquivo `index.html` em seu navegador.
+
+# TODO: Melhorias para o Portfólio
+
+- [ ] **Responsividade**: Ajustar layout para dispositivos móveis e navegadores variados.
+- [ ] **Interatividade**: Adicionar animações, efeitos de hover e uma seção de comentários.
+- [ ] **Design**: Implementar tema claro/escuro, melhorar tipografia e criar um favicon.
+- [ ] **SEO e Performance**: Melhorar meta tags, otimizar imagens e minificar arquivos.
+- [ ] **Acessibilidade**: Garantir contraste adequado, textos alternativos e suporte a leitores de tela.
+- [ ] **Funcionalidades Extras**: Formulário de contato, blog técnico e linha do tempo interativa.
+- [ ] **Integrações**: Conectar com APIs, redes sociais e Google Analytics.
+- [ ] **Documentação**: Atualizar README e adicionar guia de contribuição.
+- [ ] **Testes**: Verificar compatibilidade, erros e desempenho do site.
+- [ ] **Hospedagem**: Configurar HTTPS e monitorar estabilidade.
 
 ## 📝 Licença
 
