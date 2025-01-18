@@ -31,7 +31,7 @@ Abaixo está a organização dos arquivos e pastas:
 
 Confira como está o visual do portfólio:
 
-![Screenshot](assets/portfolio) <!-- Substitua pelo link de uma imagem real se possível -->
+![Screenshot](assets/portfolio.png) <!-- Substitua pelo link de uma imagem real se possível -->
 
 ## 🌐 Acesse o Site
 
